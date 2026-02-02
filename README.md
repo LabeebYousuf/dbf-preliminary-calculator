@@ -11,9 +11,11 @@ This repo contains:
 
 ## Repository Structure
 
-├── src/ # MATLAB code (scripts / live scripts)
-├── data/ # Airfoil polar / lookup CSV files
-├── docs/ # Exported results (PDF/HTML), reports, snapshots
+```text
+.
+├── src/        # MATLAB code (scripts / live scripts)
+├── data/       # Airfoil polar / lookup CSV files
+├── docs/       # Exported results (PDF/HTML), reports, snapshots
 ├── .gitignore
 └── README.md
 
